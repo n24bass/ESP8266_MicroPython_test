@@ -1,2 +1,4 @@
 # ESP8266_MicroPython_test
-test code for micropython on ESP8266
+Test codes for micropython on ESP8266.
+
+https://twitter.com/n24bass/status/804319978363027457
